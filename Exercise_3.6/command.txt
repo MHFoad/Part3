@@ -1,1 +1,1 @@
-docker image ls
+C:\Users\Foad>docker image ls
